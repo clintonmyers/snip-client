@@ -1,0 +1,9 @@
+[
+  { "name": "Abomination", "id": 1, "power": 9, "cost": 5 },
+  { "name": "Cyclops", "id": 30, "power": 4, "cost": 3 },
+  { "name": "Hulk", "id": 58, "power": 12, "cost": 6 },
+  { "name": "Misty Knight", "id": 237, "power": 2, "cost": 1 },
+  { "name": "Shocker", "id": 114, "power": 3, "cost": 2 },
+  { "name": "The Thing", "id": 130, "power": 6, "cost": 4 },
+  { "name": "The Void", "id": 269, "power": 7, "cost": 4 }
+]
